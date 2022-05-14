@@ -1,0 +1,20 @@
+git --version
+This command is used to know about the  version of git insatlled in local machine
+
+git status
+This command is used to track the status of the repository
+
+git remote -v
+This command is used to know the link from where the repository was downloaded into the local machine
+
+git add filename
+This command is used to add filename to the repository
+
+git commit -m "The title of the version"
+This command is used to commit the changes and keep track of history versions and history snapshots
+
+git push 
+This command is used to push the changes to the server all things that were done in local machine are pushed to the server
+
+git pull
+This command is used to obtain the updated repository 
